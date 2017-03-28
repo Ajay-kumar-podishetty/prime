@@ -39,10 +39,10 @@ int main()
        if(a[n]==0)
        {
               printf("it is  a prime no");
-        }
-        else
-         {
+       }
+       else
+       {
                printf("Not a prime no");
-          }
+       }
       return 0;
 }
